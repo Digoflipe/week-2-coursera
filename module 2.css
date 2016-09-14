@@ -1,0 +1,71 @@
+@media (min-width:263px) and (max-width:3000px){
+
+p{color:blue;font-weight: bold;font-size: 15px;
+
+}
+
+#p2{
+
+    color:#f05b09;font-size: 15px text-align: center;
+}
+
+#p3{
+    color:orange;font-size: 15px;
+}
+h1{text-align: center;font-size: 38px;}
+
+#first-div {
+  width:30.00%;
+  height:159px;
+  float:left;
+  background-color:pink;
+  margin-right: 13px;padding-left: 15px;padding-top: 15px;
+  text-align: left;font-family: helvetica,arial,garamond;
+  overflow: hidden;border-style: solid;
+;padding-bottom: 39px;margin-left: 10px;
+}
+
+#second-div {
+  width:30.00%;
+  height:159px;
+  float:left;
+  background-color:blue;
+  margin-right: 13px;
+  font-family: helvetica,arial,garamond;
+margin-left: 0px;15px;padding-top: 15px;
+overflow:hidden;border-style:solid;
+padding-bottom: 39px;padding-left: 10px;
+}
+
+#third-div {
+  width:30.00%;
+  height:159px;
+  float:left;
+  background-color:purple;
+  font-family: helvetica,arial,garamond;
+overflow: hidden;
+margin-left: 0px;padding-left: 15px;padding-top: 15px;border-style:solid;
+padding-bottom: 39px;padding-right: 10px;
+}
+
+#chicken{
+    border-style: solid;border-color: black;width: 180px;background-color: red;float: right;
+font-size: 40px;text-align: center;font-family: helvetica,arial,garamond;margin-top:-20px;height:34px;margin-right: -2px;margin-left: 10px;font-size: 30px;
+
+}
+
+
+
+
+#beef{border-style: solid;border-color: black;width: 180px;background-color: pink;float: right;color: white;
+font-size: 40px;text-align: center;font-family: helvetica,arial,garamond;margin-top:-20px;height:34px;
+margin-right: -2px;font-size: 30px;
+}
+
+#sushi{border-color: black;width: 180px;background-color: yellow;float: right;
+font-size: 40px;text-align: center;font-family: helvetica,arial,garamond;margin-top:-20px;height:34px;margin-right: -12px;border-style: solid;font-size: 30px;
+
+
+}
+
+}
