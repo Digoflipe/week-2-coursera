@@ -1,0 +1,341 @@
+h1{text-align: center;font-weight: bold;
+
+}
+
+#box-1
+{
+
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+ margin-left:10px;
+  box-sizing: border-box;
+  padding-left: 10px;padding-right: 15px;
+  overflow: hidden;
+}
+
+#box-2
+{
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+    padding-right: 05px;
+    overflow: hidden;
+}
+
+#box-3
+{
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+overflow: hidden;
+}
+
+#chicken{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -16px;
+    text-align: center;
+    color :black;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#beef{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -06px;
+    text-align: center;
+    color :white;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+
+
+
+}
+#sushi{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -01px;
+    text-align: center;
+    color :#ffc3a0;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+}
+#p{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;
+color:black;overflow: hidden;
+}
+#p2{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;
+color:black;padding-left: 10px;
+
+}
+
+#p3{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;
+color:black;padding-left: 10px;
+
+}
+
+
+
+
+
+@media(min-width: 997px){
+
+#box-1
+{
+
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+ margin-left:10px;
+  box-sizing: border-box;
+  padding-left: 10px;padding-right: 15px;
+overflow: hidden;
+}
+
+#box-2
+{
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+    padding-right: 05px;
+    overflow: hidden;
+}
+
+#box-3
+{
+    height: 215px;
+    width: 32%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+#chicken{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -16px;
+    text-align: center;
+    color :black;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#beef{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -06px;
+    text-align: center;
+    color :white;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+
+
+
+}
+#sushi{
+    height:35px;
+    background-color:red;
+    width:135px;
+    float :right;
+    margin-right: -01px;
+    text-align: center;
+    color :#ffc3a0;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+}
+#p{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;overflow: hidden;
+}
+#p2{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;padding-left: 10px;
+
+}
+
+#p3{text-align: left;margin-top:60px;margin-left:10px;font-size: 16px;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;padding-left: 10px;
+
+}
+}
+@media(min-width:0px) and (max-width: 767px){
+
+
+
+
+
+#box-1
+{
+
+    height: 255px;
+    width: 95%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+ margin-left:10px;
+  box-sizing: border-box;
+  padding-left: 10px;padding-right: 15px;
+  overflow: hidden;
+
+}
+
+#box-2
+{
+    height: 255px;
+    width: 95%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+    padding-right: 05px;
+overflow: hidden;
+}
+
+#box-3
+{
+    height: 255px;
+    width: 95%;
+    border:1px solid black;
+    float:left;
+    background-color: beige;
+    margin-left: 10px;
+    box-sizing: border-box;
+    overflow:hidden;
+
+
+}
+
+#chicken{
+    height:35px;
+    background-color:red;
+    width:38%;
+    float :right;
+    margin-right: -16px;
+    text-align: center;
+    color :black;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+#beef{
+    height:35px;
+    background-color:red;
+    width:38%;
+    float :right;
+    margin-right: -5px;
+    text-align: center;
+    color :white;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+
+
+
+}
+#sushi{
+    height:35px;
+    background-color:red;
+    width:38%;
+    float :right;
+    margin-right: -01px;
+    text-align: center;
+    color :#ffc3a0;
+    font-size: 24px;
+    font-family: trebuchet;
+    border-right: 1px;
+    border-top:1px;
+    border-color: black;
+    border-style: solid;
+
+
+}
+#p{text-align: left;margin-top:60px;margin-left:10px;font-size: 80%;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;overflow: hidden;
+}
+#p2{text-align: left;margin-top:60px;margin-left:10px;font-size: 80%;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;padding-left: 10px;
+
+}
+
+#p3{text-align: left;margin-top:60px;margin-left:10px;font-size: 80%;
+    font-family: helvetica,sans-serif,garamond;font-weight: bold;
+color:black;padding-left: 10px;
+
+}
+
+}
